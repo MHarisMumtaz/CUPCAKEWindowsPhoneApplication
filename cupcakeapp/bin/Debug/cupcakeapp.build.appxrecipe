@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ANONYMOUS</Machine>
+    <WindowsUser>HM</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>52a9a51a-ccf5-40ad-be59-b506f3d221e3</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\bin\Debug\cupcakeapp.exe">
+      <PackagePath>cupcakeapp.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\Assets\background.png">
+      <PackagePath>Assets\background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\Assets\cup106.png">
+      <PackagePath>Assets\cup106.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\Assets\cup1152.png">
+      <PackagePath>Assets\cup1152.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\Assets\cup120.png">
+      <PackagePath>Assets\cup120.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\Assets\cup170.png">
+      <PackagePath>Assets\cup170.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\Assets\cup360.png">
+      <PackagePath>Assets\cup360.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\Assets\cup744.png">
+      <PackagePath>Assets\cup744.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\Assets\cupcake1.png">
+      <PackagePath>Assets\cupcake1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\Assets\cupcake2.png">
+      <PackagePath>Assets\cupcake2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\Assets\cupcake3.png">
+      <PackagePath>Assets\cupcake3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\Assets\cupcake4.png">
+      <PackagePath>Assets\cupcake4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\Assets\cupcake5.png">
+      <PackagePath>Assets\cupcake5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\bin\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\bin\Debug\Video.xbf">
+      <PackagePath>Video.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\bin\Debug\cupcakeapp.xr.xml">
+      <PackagePath>cupcakeapp.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\HM\Documents\Visual Studio 2013\Projects\cupcakeapp\cupcakeapp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
